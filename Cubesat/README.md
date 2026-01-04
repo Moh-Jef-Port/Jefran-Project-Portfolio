@@ -10,5 +10,3 @@ This folder contains subsystem and flight software developed by me for a 3U Cube
 - Integrated multi-sensor flight builds
 
 The code reflects a modular development process: individual subsystem validation followed by integrated flight software.
-
-> Note: Only non-sensitive, educational versions of the code are shared here for portfolio review.
