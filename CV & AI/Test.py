@@ -2,7 +2,7 @@ import cohere
 import pyttsx3
 
 
-co = cohere.Client('5sdONErRjqtt22rIyOQ7pc3XC08GtB86UIzpgL3i')
+co = cohere.Client('MY PRIVATE KEY')
 
 engine = pyttsx3.init()
 
